@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shennar Lar 👋
+### SDET & QA Automation Engineer | EdTech Quality Specialist
 
-<!--
-**shennar-lar/shennar-lar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building scalable UI and API test automation frameworks, eliminating release regressions, and designing risk-based testing strategies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Skillset
+
+- **Languages:** Java, SQL (PostgreSQL, MySQL), HTML/CSS
+- **UI & Mobile Automation:** Selenium WebDriver 4, TestNG, Cucumber (BDD), Appium, Page Object Model (POM)
+- **API & Backend Testing:** REST Assured, Postman, JSON Schema Validation, Database Verification
+- **Build & CI/CD:** Gradle, Maven, Git, GitHub Actions
+- **Domain Specialization:** EdTech Platforms, Learning Management Systems (LMS), Educational Workflows
+
+---
+
+### 📌 Pinned Projects
+- 💻 **[Enterprise Web Automation Framework](https://github.com/shennar-lar/web-automation-framework-java):** Modular UI automation framework built with Java, Selenium, TestNG, and Gradle.
+- 📡 **API Automation Suite:** (Coming up next!)
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/shynarlar)
