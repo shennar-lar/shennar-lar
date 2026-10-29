@@ -16,8 +16,8 @@ Passionate about building scalable UI and API test automation frameworks, elimin
 ---
 
 ### 📌 Pinned Projects
-- 💻 **[Enterprise Web Automation Framework](https://github.com/shennar-lar/web-automation-framework-java):** Modular UI automation framework built with Java, Selenium, TestNG, and Gradle.
-- 📡 **API Automation Suite:** (Coming up next!)
+- 💻 [Enterprise Web Automation Framework](https://github.com/shennar-lar/web-automation-framework-java): Modular UI regression framework built with Java, Selenium WebDriver, TestNG, Page Object Model, and Gradle.
+- 📡 [REST API Test Automation Framework](https://github.com/shennar-lar/api-automation-framework-restassured): Scalable backend test suite validating RESTful endpoints, status codes, and JSON payloads with REST Assured.
 
 ---
 
